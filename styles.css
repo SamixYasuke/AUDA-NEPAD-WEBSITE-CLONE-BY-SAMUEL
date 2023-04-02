@@ -111,7 +111,7 @@ section .row .col-8 ul li a{
 
 .bg-lemon{
     background-color: rgb(154, 247, 154);
-    height: 10vw;
+    height: 20vw;
 }
 
 .bg-lemon:hover{
@@ -120,7 +120,7 @@ section .row .col-8 ul li a{
 
 .bg-skyblue{
     background-color: rgb(114, 213, 216);
-    height: 10vw;
+    height: 20vw;
 }
 
 .bg-skyblue:hover{
@@ -129,7 +129,7 @@ section .row .col-8 ul li a{
 
 .bg-brown{
     background-color: rgb(126, 103, 71);
-    height: 10vw;
+    height: 20vw;
 }
 
 .bg-brown:hover{
@@ -138,7 +138,7 @@ section .row .col-8 ul li a{
 
 .bg-orange{
     background-color: rgb(245, 160, 32);
-    height: 10vw;
+    height: 20vw;
 }
 
 .bg-orange:hover{
@@ -156,7 +156,7 @@ section .row .col-8 ul li a{
 
 .bg-lemon2{
     background-color: rgb(154, 247, 154);
-    height: 10vw;
+    height: 18vw;
     
 }
 
@@ -166,7 +166,7 @@ section .row .col-8 ul li a{
 
 .bg-skyblue2{
     background-color: rgb(114, 213, 216);
-    height: 10vw;
+    height: 18vw;
 }
 
 .bg-skyblue2:hover{
@@ -175,7 +175,7 @@ section .row .col-8 ul li a{
 
 .bg-brown2{
     background-color: rgb(126, 103, 71);
-    height: 10vw;
+    height: 18vw;
 }
 
 .bg-brown2:hover{
